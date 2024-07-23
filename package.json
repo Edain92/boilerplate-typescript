@@ -1,5 +1,5 @@
 {
-  "name": "202305-sw-arch-initial-kata-group-222",
+  "name": "boilerplate-typescript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,17 +13,9 @@
     "-----": "---------CI----------",
     "ci:test": "npm test -- --coverage --watchAll=false"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/agonsant/202305-sw-arch-initial-kata-group-222.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/agonsant/202305-sw-arch-initial-kata-group-222/issues"
-  },
-  "homepage": "https://github.com/agonsant/202305-sw-arch-initial-kata-group-222#readme",
   "devDependencies": {
     "@types/jest": "29.5.1",
     "@types/node": "18.16.3",
